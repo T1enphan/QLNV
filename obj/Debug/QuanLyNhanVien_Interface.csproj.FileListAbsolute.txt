@@ -1,0 +1,7 @@
+D:\Lap Trinh Ung Dung .Net\QuanLyNhanVien_Interface\QuanLyNhanVien_Interface\bin\Debug\QuanLyNhanVien_Interface.exe.config
+D:\Lap Trinh Ung Dung .Net\QuanLyNhanVien_Interface\QuanLyNhanVien_Interface\bin\Debug\QuanLyNhanVien_Interface.exe
+D:\Lap Trinh Ung Dung .Net\QuanLyNhanVien_Interface\QuanLyNhanVien_Interface\bin\Debug\QuanLyNhanVien_Interface.pdb
+D:\Lap Trinh Ung Dung .Net\QuanLyNhanVien_Interface\QuanLyNhanVien_Interface\obj\Debug\QuanLyNhanVien_Interface.csprojAssemblyReference.cache
+D:\Lap Trinh Ung Dung .Net\QuanLyNhanVien_Interface\QuanLyNhanVien_Interface\obj\Debug\QuanLyNhanVien_Interface.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Ung Dung .Net\QuanLyNhanVien_Interface\QuanLyNhanVien_Interface\obj\Debug\QuanLyNhanVien_Interface.exe
+D:\Lap Trinh Ung Dung .Net\QuanLyNhanVien_Interface\QuanLyNhanVien_Interface\obj\Debug\QuanLyNhanVien_Interface.pdb
